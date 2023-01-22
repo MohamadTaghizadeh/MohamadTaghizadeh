@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
 <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="selenium"/></a>
-![YouTube Channel Subscribers](https://youtube.com/@MohamadTaghizadeh?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/@MohamadTaghizadeh?style=social)
         
        
   
