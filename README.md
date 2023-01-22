@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 ## Publications
 ## Journal Papers
 * X [link](X) **Scopus: Q1**  
-* Using a Deep Learning Model to Explore the Impact of Clinical Data on COVID-19 Diagnosis Using Chest X-ray [link](https://www.mdpi.com/1424-8220/22/2/669/pdf) **Scopus: Q1** 
 
 ### Conference Papers
 * Arabic Sign Language Recognition by Deep Few-Shot Learning, ASET 2023 sponsored by IEEE, 5th HCT International Multi-Conferences in Dubai, ASET 2023 sponsored by IEEE. [link](https://hct.ac.ae/en/events/aset-2023/)
@@ -59,18 +58,3 @@ Here are some ideas to get you started:
 
 ## My Github Activity
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MohamadTaghizadeh&show_icons=true)
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-MohamadTaghizadeh/README.md at main · MohamadTaghizadeh/MohamadTaghizadeh · GitHub 
