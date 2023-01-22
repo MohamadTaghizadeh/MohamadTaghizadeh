@@ -16,35 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-Skip to content
-Product
-Solutions
-Open Source
-Pricing
-Search
-Sign in
-Sign up
-MohamadTaghizadeh
-/
-MohamadTaghizadeh
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-MohamadTaghizadeh/README.md
-@MohamadTaghizadeh
-MohamadTaghizadeh Update README.md
-Latest commit b6ac5dc on Jun 23, 2022
- History
- 1 contributor
-64 lines (51 sloc)  6.11 KB
-
-
-
 <img src="https://raw.githubusercontent.com/talhaanwarch/talhaanwarch/main/gitcover.png" alt="Mohamad Taghizadeh Github Profile ">
 
 ## Frameworks I worked with  
