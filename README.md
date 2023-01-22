@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![ai](https://user-images.githubusercontent.com/81808969/213901973-e667ff0b-0920-463c-9507-4b7a89f455bc.jpg)
 
-<img src="x" alt="Mohamad Taghizadeh Github Profile ">
+<img src="https://avatars.githubusercontent.com/u/81808969?v=4" alt="Mohamad Taghizadeh Github Profile ">
 
 ## Frameworks I worked with  
   ### ML/DL Framework
