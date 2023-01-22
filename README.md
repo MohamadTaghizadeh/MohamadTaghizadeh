@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="drf"/></a>
 
 ### Others
-<a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/></a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Heroku"/>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
 <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="selenium"/></a>
+<a href="https://www.syoutube.com/" target="_blank"> <img src="https://img.shields.io/youtube/channel/views/UCTQJgPuZjQJnZoFafVNDCgQ?label=%40MohamadTaghizadeh&style=social" alt="youtube"/></a>
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTQJgPuZjQJnZoFafVNDCgQ?style=social)
         
        
