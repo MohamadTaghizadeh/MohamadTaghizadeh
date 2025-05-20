@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   <a href="https://keras.io/" target="_blank"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="keras"/> </a>  
 
 ### WEB/API Framework
+<a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"/> </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="fastapi"/></a>
 <a href="https://www.django-rest-framework.org/" target="_blank"> <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="drf"/></a>
@@ -36,20 +37,21 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/@MohamadTaghizadeh" target="_blank"> <img src="https://img.shields.io/youtube/channel/views/UCTQJgPuZjQJnZoFafVNDCgQ?label=%40MohamadTaghizadeh&style=social" alt="youtube"/></a>
 
         
-       
+## Google Scholar 
+Profile [Link](https://scholar.google.com/citations?user=jUUq2DcAAAAJ&hl=en&oi=sra)
   
-## Competetions I Participated 
-
+## Top Projects I Started 
+* Video To Text
 
 ## Publications
 ## Journal Papers
-* X [link](X) **Scopus: Q1**  
+* EEG Motor Imagery Classification by Feature Extracted Deep 1D-CNN and Semi-Deep Fine-Tuning. [Link](https://ieeexplore.ieee.org/document/10601693) **IEEE Access: Q1**  
 
 ### Conference Papers
-* Arabic Sign Language Recognition by Deep Few-Shot Learning, ASET 2023 sponsored by IEEE, 5th HCT International Multi-Conferences in Dubai, ASET 2023 sponsored by IEEE. [link](https://hct.ac.ae/en/events/aset-2023/)
+* Arabic Sign Language Recognition by Deep Few-Shot Learning, ASET 2023 sponsored by IEEE, 5th HCT International Multi-Conferences in Dubai, ASET 2023 sponsored by IEEE. [Link](https://hct.ac.ae/en/events/aset-2023/)
 
-### Workshop Papers
-* X. [link](XX)
+### arXiv Papers
+* The fast and accurate approach to detection and segmentation of melanoma skin cancer using fine-tuned YOLOV3 and SegNet based on deep transfer learning. [Link](https://arxiv.org/pdf/2210.05167)
 
 
 ## My Github Activity
