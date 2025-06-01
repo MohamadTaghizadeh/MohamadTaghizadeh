@@ -40,7 +40,10 @@ Here are some ideas to get you started:
         
 ## Google Scholar 
 Profile [Link](https://scholar.google.com/citations?user=jUUq2DcAAAAJ&hl=en&oi=sra)
-  
+
+## LinkedIn
+Profile [Link](Linkedin.com/in/MohamadTaghizadeh)
+
 ## Top Projects I Started 
 * Video To Text [Link](https://github.com/MohamadTaghizadeh/VideoToTxt)
 
