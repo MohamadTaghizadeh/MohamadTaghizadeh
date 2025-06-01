@@ -25,13 +25,16 @@ Here are some ideas to get you started:
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn"/> </a>
   <a href="https://keras.io/" target="_blank"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="keras"/> </a>  
 
-### WEB/API Framework
+  ### WEB/API Framework
 <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="fastapi"/></a>
 
-### Others
+  ### Others
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Heroku"/>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+
+
+## YouTube Channel
 <a href="https://www.youtube.com/@MohamadTaghizadeh" target="_blank"> <img src="https://img.shields.io/youtube/channel/views/UCTQJgPuZjQJnZoFafVNDCgQ?label=%40MohamadTaghizadeh&style=social" alt="youtube"/></a>
 
         
