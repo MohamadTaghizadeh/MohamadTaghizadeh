@@ -52,7 +52,7 @@ Profile [Link](Linkedin.com/in/MohamadTaghizadeh)
 * EEG Motor Imagery Classification by Feature Extracted Deep 1D-CNN and Semi-Deep Fine-Tuning. [Link](https://ieeexplore.ieee.org/document/10601693) **IEEE Access: Q1**  
 
 ### Conference Papers
-* Arabic Sign Language Recognition by Deep Few-Shot Learning, ASET 2023 sponsored by IEEE, 5th HCT International Multi-Conferences in Dubai, ASET 2023 sponsored by IEEE. [Link](https://hct.ac.ae/en/events/aset-2023/)
+* Arabic Sign Language Recognition by Deep Few-Shot Learning, ASET 2023 sponsored by IEEE, 5th HCT International Multi-Conferences in Dubai, ASET 2023 sponsored by IEEE. [Link](https://ieeexplore.ieee.org/document/10366479)
 
 ### arXiv Papers
 * The fast and accurate approach to detection and segmentation of melanoma skin cancer using fine-tuned YOLOV3 and SegNet based on deep transfer learning. [Link](https://arxiv.org/pdf/2210.05167)
