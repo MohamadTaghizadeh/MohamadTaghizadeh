@@ -44,7 +44,7 @@ Profile [Link](https://scholar.google.com/citations?user=jUUq2DcAAAAJ&hl=en&oi=s
 ## LinkedIn
 Profile [Link](Linkedin.com/in/MohamadTaghizadeh)
 
-## Top Projects I Started 
+## Top Projects 
 * Video To Text [Link](https://github.com/MohamadTaghizadeh/VideoToTxt)
 
 ## Publications
