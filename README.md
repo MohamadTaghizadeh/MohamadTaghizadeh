@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ## Google Scholar 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=jUUq2DcAAAAJ)
 
-Profile [Link](https://scholar.google.com/citations?user=jUUq2DcAAAAJ&hl=en&oi=sra)
+Profile [Link](https://scholar.google.com/citations?hl=en&user=jUUq2DcAAAAJ)
 
 ## LinkedIn
 Profile [Link](https://Linkedin.com/in/MohamadTaghizadeh)
