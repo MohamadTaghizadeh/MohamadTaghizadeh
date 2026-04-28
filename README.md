@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 Profile [Link](https://scholar.google.com/citations?user=jUUq2DcAAAAJ&hl=en&oi=sra)
 
 ## LinkedIn
-Profile [Link](Linkedin.com/in/MohamadTaghizadeh)
+Profile [Link](https://Linkedin.com/in/MohamadTaghizadeh)
 
 ## Top Projects and Services
 * Video To Text [Link](https://github.com/MohamadTaghizadeh/VideoToTxt)
