@@ -50,6 +50,7 @@ Profile [Link](https://scholar.google.com/citations?hl=en&user=jUUq2DcAAAAJ)
 Profile [Link](https://Linkedin.com/in/MohamadTaghizadeh)
 
 ## Top Projects and Services
+* Document-based Question Answering System (RAG) [Link](https://github.com/MohamadTaghizadeh/DQAS-RAG)
 * Video To Text [Link](https://github.com/MohamadTaghizadeh/VideoToTxt)
 * Image Colorization [Link](https://github.com/MohamadTaghizadeh/ImageColorization)
 * ROS2 Intelligent Robotics Production  [Link](https://github.com/MohamadTaghizadeh/Intelligent-Robotics-Production)
